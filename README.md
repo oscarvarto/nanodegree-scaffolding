@@ -6,7 +6,7 @@
 4. Clone from your fork
 
    ```shell
-   git clone --recurse-submodules -j8 https://github.com/your-user-name/nanodegree-scaffolding.git
+   git clone --recursive https://github.com/your-user-name/nanodegree-scaffolding.git
    ```
 
 5. Build the `Dockerfile` with:
