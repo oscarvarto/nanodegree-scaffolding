@@ -1,4 +1,0 @@
-[submodule "nanodegree"]
-	path = nanodegree
-	url = ./nanodegree
-	branch = scaffold0
