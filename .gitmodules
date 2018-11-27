@@ -1,0 +1,3 @@
+[submodule "nanodegree"]
+	path = nanodegree
+	url = git@github.com:IntersysConsulting/scala-essentials-nanodegree.git
